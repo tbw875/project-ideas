@@ -20,4 +20,7 @@ A second layer could be figuring out which of my recipes I could make given cont
 Investigate using PyGame library on a simple game.
 
 5. Data Analysis / TensorFlow practice
-Utilizing datasets from Kaggle, build out models for categorical prediction on an unbalanced class set using different ML techniques.
+etilizing datasets from Kaggle, build out models for categorical prediction on an unbalanced class set using different ML techniques.
+
+6. Common Ground
+A meeting social interaction app that works with businesses to create common ground for people looking for friends. It would give people a way to collaborate on something and bond to create an acquaintanceship and that would reward drink specials or coupons from the business. two sided revenue model.
