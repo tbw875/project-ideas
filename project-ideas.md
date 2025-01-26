@@ -24,3 +24,6 @@ etilizing datasets from Kaggle, build out models for categorical prediction on a
 
 6. Common Ground
 A meeting social interaction app that works with businesses to create common ground for people looking for friends. It would give people a way to collaborate on something and bond to create an acquaintanceship and that would reward drink specials or coupons from the business. two sided revenue model.
+
+7. Pinball TLDR
+A webapp that allows you to search for a pinball table and get a quick two-sentence long 101 on what to go for in a tournament setting. Similar to Bob's pincyclopedia but for modern games.
