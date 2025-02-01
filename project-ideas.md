@@ -27,3 +27,6 @@ A meeting social interaction app that works with businesses to create common gro
 
 7. Pinball TLDR
 A webapp that allows you to search for a pinball table and get a quick two-sentence long 101 on what to go for in a tournament setting. Similar to Bob's pincyclopedia but for modern games.
+
+8. Helper tools
+helper tools to run APIs and such for new job
